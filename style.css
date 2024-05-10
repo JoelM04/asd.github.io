@@ -1,0 +1,17 @@
+.navbar-brand {
+    display: flex;
+    margin-left: 25px;
+    align-items: center;
+}
+
+.linea-vertical {
+    border-left: 2px solid white;
+    height: 60px;
+    margin: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.linea-vertical h2 {
+    margin-left: 10px;
+}
